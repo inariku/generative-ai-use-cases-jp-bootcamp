@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> This repository is currently developed for Japanese users. If you wish for multilingual support, please react to [this issue](https://github.com/aws-samples/generative-ai-use-cases-jp/issues/151).
+> Boot Camp 参加者の方々は [/docs/Generative AI Use Case JP.pdf]をご確認ください。.
 
 # Generative AI Use Cases JP (略称:GenU)
 
