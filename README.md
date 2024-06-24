@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> Boot Camp 参加者の方々は [こちら](/docs/Generative AI Use Case JP.pdf)をご確認ください。.
+> Boot Camp 参加者の方々は [こちら](/docs/Generative-AI-Use-Case-JP.pdf)をご確認ください。.
 
 # Generative AI Use Cases JP (略称:GenU)
 
